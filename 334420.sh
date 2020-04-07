@@ -14,7 +14,7 @@ red(){
 #copy from 秋水逸冰 ss scripts
 
 function install_shadowsocks.sh(){
-    wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh && chmod +x shadowsocks-all.sh && bash shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log
+    wget --no-check-certificate -O shadowsocks-all.sh https://cdn.jsdelivr.net/gh/teddysun/shadowsocks_install/shadowsocks-all.sh && chmod +x shadowsocks-all.sh && bash shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log
 }
 
 function install_V2ray.sh(){
