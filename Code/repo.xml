@@ -8,29 +8,29 @@
         <category>sakuratv</category>
 
         <type>Entertainment</type>
-                        <icon80>https://cdn.jsdelivr.net/gh/MaleiSiyin/SakuraTv-CDN/Code/qpkg_icon_80.gif</icon80>
+                        <icon80>http://www.sakuratv.cn/dl/qpkg_icon_80.gif</icon80>
                     <description><![CDATA[Bittorrent DownloaderTo configure the app, you can edit the file /opt/QTransmission/etc/settings.jsonCredentials : user : qnap / password : qnap]]></description>
         <fwVersion>4.2.6</fwVersion>
         <version>2.94.0</version>
         <platform>
             <platformID>TS-X28A</platformID>
-            <location>https://cdn.jsdelivr.net/gh/MaleiSiyin/SakuraTv-CDN/Code/QTransmission_2.94.0_arm_64.qpkg</location>
+            <location>http://www.sakuratv.cn/dl/QTransmission_2.94.0_arm_64.qpkg</location>
         </platform>
         <platform>
             <platformID>TS-X41</platformID>
-            <location>https://cdn.jsdelivr.net/gh/MaleiSiyin/SakuraTv-CDN/Code/QTransmission_2.94.0_arm-x41.qpkg</location>
+            <location>http://www.sakuratv.cn/dl/QTransmission_2.94.0_arm-x41.qpkg</location>
         </platform>
         <platform>
             <platformID>TS-ARM-X19</platformID>
-            <location>https://cdn.jsdelivr.net/gh/MaleiSiyin/SakuraTv-CDN/Code/QTransmission_2.94.0_arm-x19.qpkg</location>
+            <location>http://www.sakuratv.cn/dl/QTransmission_2.94.0_arm-x19.qpkg</location>
         </platform>
         <platform>
             <platformID>TS-X31</platformID>
-            <location>https://cdn.jsdelivr.net/gh/MaleiSiyin/SakuraTv-CDN/Code/QTransmission_2.94.0_arm-x31.qpkg</location>
+            <location>http://www.sakuratv.cn/dl/QTransmission_2.94.0_arm-x31.qpkg</location>
         </platform>
         <platform>
             <platformID>TS-NASX86</platformID>
-            <location>https://cdn.jsdelivr.net/gh/MaleiSiyin/SakuraTv-CDN/Code/QTransmission_2.94.0_x86_64.qpkg</location>
+            <location>http://www.sakuratv.cn/dl/QTransmission_2.94.0_x86_64.qpkg</location>
         </platform>
         <publishedDate>2018/05/04</publishedDate>
         <maintainer><![CDATA[Qoolbox]]></maintainer>
