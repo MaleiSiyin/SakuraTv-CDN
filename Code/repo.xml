@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugins>
+    <cachechk>201607221201</cachechk>
+        <item>
+        <name>QTransmission</name>
+        <internalName>QTransmission</internalName>
+        <changeLog>https://www.qnapclub.eu/en/qpkg/releasenotes/208</changeLog>
+        <category>QnapClub</category>
+
+        <type>Entertainment</type>
+                        <icon80>https://ww2.dmit.ml/download/qpkg_icon_80.gif</icon80>
+                    <description><![CDATA[Bittorrent DownloaderTo configure the app, you can edit the file /opt/QTransmission/etc/settings.jsonCredentials : user : qnap / password : qnap]]></description>
+        <fwVersion>4.2.6</fwVersion>
+        <version>2.94.0</version>
+        <platform>
+            <platformID>TS-X28A</platformID>
+            <location>https://ww2.dmit.ml/download/QTransmission_2.94.0_arm_64.qpkg</location>
+        </platform>
+        <platform>
+            <platformID>TS-X41</platformID>
+            <location>https://ww2.dmit.ml/download/QTransmission_2.94.0_arm-x41.qpkg</location>
+        </platform>
+        <platform>
+            <platformID>TS-ARM-X19</platformID>
+            <location>https://ww2.dmit.ml/download/QTransmission_2.94.0_arm-x19.qpkg</location>
+        </platform>
+        <platform>
+            <platformID>TS-X31</platformID>
+            <location>https://ww2.dmit.ml/download/QTransmission_2.94.0_arm-x31.qpkg</location>
+        </platform>
+        <platform>
+            <platformID>TS-NASX86</platformID>
+            <location>https://ww2.dmit.ml/download/QTransmission_2.94.0_x86.qpkg</location>
+        </platform>
+        <publishedDate>2018/05/04</publishedDate>
+        <maintainer><![CDATA[Qoolbox]]></maintainer>
+        <developer><![CDATA[Qoolbox]]></developer>
+        <forumLink><![CDATA[]]></forumLink>
+        <icon100></icon100>
+        <language><![CDATA[English]]></language>
+        <snapshot></snapshot>
+        <bannerImg></bannerImg>
+        <changeLog></changeLog>
+        <tutorialLink><![CDATA[https://transmissionbt.com]]></tutorialLink>
+    </item>
+</plugins>
