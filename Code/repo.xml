@@ -30,7 +30,7 @@
         </platform>
         <platform>
             <platformID>TS-NASX86</platformID>
-            <location>https://cdn.jsdelivr.net/gh/MaleiSiyin/SakuraTv-CDN/Code/QTransmission_2.94.0_x86.qpkg</location>
+            <location>https://cdn.jsdelivr.net/gh/MaleiSiyin/SakuraTv-CDN/Code/QTransmission_2.94.0_x86_64.qpkg</location>
         </platform>
         <publishedDate>2018/05/04</publishedDate>
         <maintainer><![CDATA[Qoolbox]]></maintainer>
