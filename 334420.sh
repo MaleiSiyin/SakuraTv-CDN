@@ -127,7 +127,7 @@ install_socat(){
 }
 # cloudflare-ddns
 install_cloudflare-ddns(){
-	wget https://cdn.jsdelivr.net/gh/MaleiSiyin/SakuraTv-CDN/Code/CF-DDNS.sh && bash CF-DDNS.sh
+	wget https://cdn.jsdelivr.net/gh/MaleiSiyin/SakuraTv-CDN/Code/CF-DDNS.sh
 }
 # AliDDNS2.0
 install_AliDDNS2.0(){
