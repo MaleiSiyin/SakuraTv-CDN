@@ -43,4 +43,30 @@
         <changeLog></changeLog>
         <tutorialLink><![CDATA[https://transmissionbt.com]]></tutorialLink>
     </item>
+    <item>
+        <name>OBS Studio</name>
+        <internalName>OBS Studio</internalName>
+        <changeLog>https://www.qnapclub.eu/en/qpkg/849</changeLog>
+        <category>Sakuratv</category>
+
+        <type>Entertainment</type>
+                        <icon80>http://he.sakuratv.cn:18880/dl/qpkg_icon_80.gif</icon80>
+                    <description><![CDATA[Bittorrent DownloaderTo configure the app, you can edit the file /opt/QTransmission/etc/settings.jsonCredentials : user : qnap / password : qnap]]></description>
+        <fwVersion>4.2.6</fwVersion>
+        <version>2.94.0</version>
+        <platform>
+            <platformID>TS-NASX86</platformID>
+            <location>http://he.sakuratv.cn:18880/dl/OBSStudio_1.91.0_x86_64.qpkg</location>
+        </platform>
+        <publishedDate>2019/12/03</publishedDate>
+        <maintainer><![CDATA[Qoolbox]]></maintainer>
+        <developer><![CDATA[Qoolbox]]></developer>
+        <forumLink><![CDATA[]]></forumLink>
+        <icon100></icon100>
+        <language><![CDATA[English]]></language>
+        <snapshot></snapshot>
+        <bannerImg></bannerImg>
+        <changeLog></changeLog>
+        <tutorialLink><![CDATA[https://www.qnapclub.eu/en/qpkg/849]]></tutorialLink>
+    </item>
 </plugins>
