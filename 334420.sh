@@ -138,8 +138,8 @@ install_AliDDNS2.0(){
 # Speestest
 Speestest(){
 	wget https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py
-     chmod +x /root/speedtest.py
-     ./speedtest.py
+        chmod +x /root/speedtest.py
+        ./speedtest.py
 }
 
 # 隧道
@@ -167,15 +167,17 @@ VNET­Tunnel+Websocket(){
 # 下载VNET­Tunnel
 VNET­Tunnel(){
 	mkdir VNet
-     cd VNet
+        cd VNet
 	wget https://cdn.jsdelivr.net/gh/MaleiSiyin/SakuraTv-CDN/Code/VNet/VNet-Tunnel.zip
 	unzip VNet-Tunnel.zip
-     chmod -R +x ./*
+        chmod -R +x ./*
 }
 Start_server(){
+        cd VNet
 	nohup ./server >> /dev/null 2>&1 &
 }
 Stop_client(){
+        cd VNet
 	nohup ./client >> /dev/null 2>&1 &
 }
 
